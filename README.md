@@ -1,2 +1,2 @@
 # voiceGPT
- gpt3.5 to voice assistant python program
+ gpt3 (davinci) to voice assistant python program
